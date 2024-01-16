@@ -1,7 +1,8 @@
 Cloudinary Django Sample Project
 ================================
 
-A simple web application that allows you to uploads photos, maintain a database with references to them, list them with their metadata, and display them using various cloud-based transformations.
+A simple web application that uses AI to identify photos/images and then searchs for related local businesses and locations, returning google maps directions.
+The web app allows you to upload photos, maintain a database with references to them, list them with their metadata, and display them using various cloud-based transformations.
 
 This sample project depends on [Cloudinary's Python library](https://github.com/cloudinary/pycloudinary). 
 
