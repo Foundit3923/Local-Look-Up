@@ -4,7 +4,7 @@ Cloudinary Django Project
 A simple web application that uses AI to identify photos/images and then searchs for related local businesses and locations, returning google maps directions.
 The web app allows you to upload photos, maintain a database with references to them, list them with their metadata, and display them using various cloud-based transformations.
 
-*NOTE* THIS PROJECT IS OUT OF DATE, DO NOT EXPECT FULL FUNCTIONALITY
+*NOTE:* THIS PROJECT IS OUT OF DATE, DO NOT EXPECT FULL FUNCTIONALITY
 
 This project depends on [Cloudinary's Python library](https://github.com/cloudinary/pycloudinary). 
 
